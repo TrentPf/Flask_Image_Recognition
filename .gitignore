@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# IDE configuration
+.idea/
+
+# Self
+git add .gitignore
